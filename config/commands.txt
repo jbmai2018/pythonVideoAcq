@@ -1,0 +1,27 @@
+./kafka-topics.sh --describe --topic VideoStreamsAllCameraNew720final --zookeeper localhost:2181
+
+kafka/bin/kafka-topics.sh --create \
+  --zookeeper localhost:2181 \
+  --replication-factor 1 --partitions 60 \
+  --topic VideoStream_zero_one
+
+./kafka-topics.sh --list --zookeeper localhost:2181
+
+./kafka-topics.sh --alter --zookeeper localhost:2181 --topic VideoStreamEmergencyTopic1 --partitions 70
+
+Kafka =>
+  Update topic :
+    ./bin/kafka-topics.sh --alter --zookeeper localhost:2181 --topic my-topic --partitions 3
+    ./kafka-topics.sh --alter --zookeeper localhost:2181 --topic VideoStream_poseModel --partitions 150
+
+  Describe:
+    ./kafka-topics.sh --describe --topic PeopleDetection_zero_two --zookeeper localhost:2181
+
+  Create:
+    kafka/bin/kafka-topics.sh --create \
+      --zookeeper localhost:2181 \
+      --replication-factor 1 --partitions 4 \
+      --topic PeopleDetection_zero_two
+
+  List all topics:
+    ./kafka-topics.sh --list --zookeeper localhost:2181

@@ -1,0 +1,28 @@
+database:
+  mongodb:
+    address:                 "localhost"
+    port:                    27017
+    dbName:                  "jbmDB"
+    username:                "jbmTest3"
+    password:                "jbm@234"
+tensorflow:
+   #     checkPoint:         "/home/hercules/Code_files/trained_7march/frozen_inference_graph.pb"
+  checkPoint:                "/home/hercules/faster_rcnn_11_April_ver3/frozen_inference_graph.pb"
+masking:
+  maskFolder:                "/home/hercules/Code_files/masks_cameras/filtered/"
+backup:
+  storeProcessedFrameFolder: "/home/hercules/VideoAnalyticsImageData/"
+  storeImageForTagging:      "/home/hercules/ImageForTagging/"
+  storeImageOnExtDrive:      "/home/hercules/ext2tb/VideoAnalyticsImageData/"
+  # storeImageOnExtDrive:      "/home/hercules/Test/VideoAnalyticsImageData/"
+kafka:
+  vidAcqTopicOut:            "VideoStream_zero_two"
+  groupIdStreamConsumer:     "PeopleDetectorConsumerNew720"
+  streamConsumerTopicOut:    "PeopleDetection_zero_two"
+  streamProcessTopic:        "processedPeopleDetection_FRCNNNew720"
+  nodejsData:                "nodejsData1"
+faust:
+  appName:                   "FinalFinalFinalNew720"
+
+streamProcess:
+    numworkers:                    4

@@ -1,0 +1,158 @@
+link:
+   camera_249 : "rtsp://admin:password%40123@192.1.10.249:554/live/0/MAIN"
+   camera_210 : "rtsp://admin:password123@192.1.10.210/Streaming/Channels/101"
+   camera_79 : "rtsp://admin:password%40123@192.1.10.79/Streaming/Channels/101"
+   camera_87 : "rtsp://admin:password%40123@192.1.10.87/Streaming/Channels/101"
+   camera_80 : "rtsp://admin:password%40123@192.1.10.80/Streaming/Channels/101"
+   camera_38 : "rtsp://admin:password%40123@192.1.10.38/Streaming/Channels/101"
+   camera_222 : "rtsp://admin:password123@192.1.10.222/Streaming/Channels/101"
+   camera_223 : "rtsp://admin:password123@192.1.10.223/Streaming/Channels/101"
+   camera_224 : "rtsp://admin:password123@192.1.10.224/Streaming/Channels/101"
+   camera_225 : "rtsp://admin:password123@192.1.10.225/Streaming/Channels/101"
+   camera_216 : "rtsp://admin:password123@192.1.10.216/Streaming/Channels/101"
+   camera_212 : "rtsp://admin:password123@192.1.10.212/Streaming/Channels/101"
+   # camera_217 : "rtsp://admin:password123@192.1.10.217/Streaming/Channels/101"
+   camera_218 : "rtsp://admin:password123@192.1.10.218/Streaming/Channels/101"
+   camera_219 : "rtsp://admin:password123@192.1.10.219/Streaming/Channels/101"
+   camera_221 : "rtsp://admin:password123@192.1.10.221/Streaming/Channels/101"
+   camera_211 : "rtsp://admin:password%40123@192.1.10.211/Streaming/Channels/101"
+   camera_213 : "rtsp://admin:password123@192.1.10.213/Streaming/Channels/101"
+   camera_214 : "rtsp://admin:password123@192.1.10.214/Streaming/Channels/101"
+   camera_215 : "rtsp://admin:password123@192.1.10.215/Streaming/Channels/101"
+   camera_173 : "rtsp://admin:password%40123@192.1.10.173:554/live/0/MAIN"
+   camera_49 : "rtsp://admin:password%40123@192.1.10.49/live/0/MAIN"
+   camera_52 : "rtsp://admin:password%40123@192.1.10.52/live/0/MAIN"
+   camera_51 : "rtsp://admin:password%40123@192.1.10.51/live/0/MAIN"
+   camera_50 : "rtsp://admin:password%40123@192.1.10.50:554/live/0/MAIN"
+   camera_63 : "rtsp://admin:password%40123@192.1.10.63:554/live/0/MAINp"
+   camera_40 : "rtsp://admin:password%40123@192.1.10.40:554/live/0/MAIN"
+   camera_41 : "rtsp://admin:password%40123@192.1.10.41/live/0/MAIN"
+   # camera_27 : "rtsp://admin:4321@192.1.10.27/onvif/profile2/media.smp"
+   camera_34 : "rtsp://admin:4321@192.1.10.34/live/0/MAIN"
+   # camera_70 : "rtsp://admin:4321@192.1.10.70/onvif/profile2/media.smp"
+   camera_226 : "rtsp://admin:password%40123@192.1.10.226:554/live/0/MAIN"
+   camera_227 : "rtsp://admin:password%40123@192.1.10.227:554/live/0/MAIN"
+   camera_228 : "rtsp://admin:password%40123@192.1.10.228:554/live/0/MAIN"
+   camera_229 : "rtsp://admin:password%40123@192.1.10.229:554/live/0/MAIN"
+   camera_232 : "rtsp://admin:password%40123@192.1.10.232:554/live/0/MAIN"
+   camera_233 : "rtsp://admin:password%40123@192.1.10.233:554/live/0/MAIN"
+   camera_234 : "rtsp://admin:password%40123@192.1.10.234:554/live/0/MAIN"
+   camera_235 : "rtsp://admin:password%40123@192.1.10.235:554/live/0/MAIN"
+   camera_236 : "rtsp://admin:password%40123@192.1.10.236:554/live/0/MAIN"
+   camera_237 : "rtsp://admin:password%40123@192.1.10.237:554/live/0/MAIN"
+   camera_238 : "rtsp://admin:password%40123@192.1.10.238:554/live/0/MAIN"
+   camera_239 : "rtsp://admin:password%40123@192.1.10.239:554/live/0/MAIN"
+   camera_240 : "rtsp://admin:password%40123@192.1.10.240:554/live/0/MAIN"
+   camera_241 : "rtsp://admin:password%40123@192.1.10.241:554/live/0/MAIN"
+   camera_242 : "rtsp://admin:password%40123@192.1.10.242:554/live/0/MAIN"
+   camera_243 : "rtsp://admin:password%40123@192.1.10.243:554/live/0/MAIN"
+   camera_244 : "rtsp://admin:password%40123@192.1.10.244:554/live/0/MAIN"
+   camera_245 : "rtsp://admin:password%40123@192.1.10.245:554/live/0/MAIN"
+   camera_246 : "rtsp://admin:password%40123@192.1.10.246:554/live/0/MAIN"
+   camera_247 : "rtsp://admin:password%40123@192.1.10.247:554/live/0/MAIN"
+   camera_248 : "rtsp://admin:password%40123@192.1.10.248:554/live/0/MAIN"
+
+   camera_146 : "rtsp://admin:password%40123@192.1.10.146:554/live/0/MAIN"
+   camera_140 : "rtsp://admin:password%40123@192.1.10.140:554/live/0/MAIN"
+   camera_143 : "rtsp://admin:password%40123@192.1.10.143:554/live/0/MAIN"
+   camera_142 : "rtsp://admin:password%40123@192.1.10.142:554/live/0/MAIN"
+   camera_144 : "rtsp://admin:password%40123@192.1.10.144:554/live/0/MAIN"
+   camera_156 : "rtsp://admin:password%40123@192.1.10.156:554/live/0/MAIN"
+   camera_160 : "rtsp://admin:password%40123@192.1.10.160:554/live/0/MAIN"
+   camera_141 : "rtsp://admin:password%40123@192.1.10.141:554/live/0/MAIN"
+   camera_145 : "rtsp://admin:password%40123@192.1.10.145:554/live/0/MAIN"
+   camera_149 : "rtsp://admin:password%40123@192.1.10.149:554/live/0/MAIN"
+   camera_153 : "rtsp://admin:password%40123@192.1.10.153:554/live/0/MAIN"
+   camera_34 : "rtsp://admin:password%40123@192.1.10.34:554/live/0/MAIN"
+   camera_40 : "rtsp://admin:password%40123@192.1.10.40:554/live/0/MAIN"
+   #J2
+   camera_7 : "rtsp://admin:password%40123@192.1.58.7:554/live/0/MAIN"
+   camera_15 : "rtsp://admin:password%40123@192.1.58.15:554/live/0/MAIN"
+   camera_24 : "rtsp://admin:password%40123@192.1.58.24:554/live/0/MAIN"
+   camera_19 : "rtsp://admin:password%40123@192.1.58.19:554/live/0/MAIN"
+   camera_10 : "rtsp://admin:password%40123@192.1.58.10:554/live/0/MAIN"
+   camera_17 : "rtsp://admin:password%40123@192.1.58.17:554/live/0/MAIN"
+   #N1
+   camera_129 : "rtsp://admin:password%40123@192.1.58.129:554/live/0/MAIN"
+   camera_130 : "rtsp://admin:password%40123@192.1.58.130:554/live/0/MAIN"
+   camera_131 : "rtsp://admin:password%40123@192.1.58.131:554/live/0/MAIN"
+   camera_132 : "rtsp://admin:password%40123@192.1.58.132:554/live/0/MAIN"
+
+threshold:
+  camera_79:  0.63
+  camera_87:  0.3
+  camera_80:  0.15
+  camera_38:  0.1
+  camera_222: 0.5
+  camera_223: 0.5
+  camera_224: 0.5
+  camera_225: 0.5
+  camera_216: 0.5
+  camera_212: 0.5
+  camera_218: 0.4
+  camera_219: 0.5
+  camera_221: 0.5
+  camera_211: 0.5
+  camera_213: 0.5
+  camera_214: 0.5
+  camera_215: 0.5
+  camera_173: 0.4
+  camera_49:  0.2
+  camera_52:  0.2
+  camera_50:  0.6
+  camera_63:  0.4
+  camera_40:  0.5
+  camera_41:  0.2
+  camera_27:  0.5
+  camera_34:  0.56
+  camera_226: 0.5
+  camera_227: 0.5
+  camera_228: 0.5
+  camera_229: 0.5
+  camera_235: 0.5
+  camera_236: 0.5
+  camera_237: 0.5
+  camera_238: 0.5
+  camera_239: 0.5
+  camera_240: 0.5
+  camera_241: 0.5
+  camera_243: 0.5
+  camera_244: 0.3
+  camera_245: 0.3
+  camera_210: 0.5
+  camera_242: 0.3
+  camera_232: 0.5
+  camera_217: 0.5
+  camera_51:  0.5
+  camera_70:  0.5
+  camera_233: 0.5
+  camera_234: 0.5
+  camera_246: 0.24
+  camera_247: 0.25
+  camera_248: 0.25
+  camera_249: 0.5
+  camera_146: 0.5
+  camera_140: 0.5
+  camera_143: 0.6
+  camera_142: 0.5
+  camera_144: 0.5
+  camera_156: 0.5
+  camera_160: 0.61
+  camera_141: 0.5
+  camera_145: 0.6
+  camera_149: 0.5
+  camera_153: 0.2
+  camera_34: 0.5
+  camera_40: 0.7
+  #J2
+  camera_7 : 0.5
+  camera_15 : 0.5
+  camera_24 : 0.5
+  camera_19 : 0.5
+  camera_10 : 0.5
+  camera_17 : 0.5
+  #N1
+  camera_129 : 0.5
+  camera_130 : 0.5
+  camera_131 : 0.5
+  camera_132 : 0.5
